@@ -10,6 +10,7 @@ I enjoy designing clean, intuitive interfaces and implementing them with lightwe
 - DOM Manipulation & Performance Optimization
 - Python (Basics)
 - Git & GitHub
+- c language
 
 ### 📂 Highlighted Work
 - **EcoTrack – UI/UX Web Interface**  

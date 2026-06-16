@@ -8,9 +8,10 @@ I enjoy designing clean, intuitive interfaces and implementing them with lightwe
 - HTML, CSS, JavaScript
 - UI/UX Design Principles
 - DOM Manipulation & Performance Optimization
-- Python (Basics)
+- Python 
 - Git & GitHub
 - c language
+- c++ 
 
 ### 📂 Highlighted Work
 - **EcoTrack – UI/UX Web Interface**  

@@ -115,7 +115,7 @@ Contributing to various open-source projects and improving existing software thr
 ## 📫 Connect With Me
 
 📧 Email:
-**your-email@example.com**
+codeaurelius0@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/your-link
